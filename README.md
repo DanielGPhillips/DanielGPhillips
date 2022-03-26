@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/daniel-phillips-6b01381b0/">
+    <a href="https://www.linkedin.com/in/daniel-g-phillips/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCH-oAiiOjbiNlChKx3gp_1Q">
@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :tent: In my free time, I love camping and hiking.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Danny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-phillips-6b01381b0/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Danny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-g-phillips/)
 
 ---
 
