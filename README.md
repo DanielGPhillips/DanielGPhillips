@@ -15,8 +15,6 @@
   </h1>
 </div>
 
----
-
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the PNW.
 - :mortar_board: I recently graduated from the University of Washington's Full Stack Web Developer Coding Bootcamp.
